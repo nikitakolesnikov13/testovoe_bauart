@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+venv/
+env/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Idea files
+.idea/
+
+# Env files
+app/core/.env
+make_data
